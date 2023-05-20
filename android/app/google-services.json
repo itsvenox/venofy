@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482584578011",
+    "project_id": "venofy-9bc03",
+    "storage_bucket": "venofy-9bc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482584578011:android:736032638c8283b4d6c9fe",
+        "android_client_info": {
+          "package_name": "com.veno.venofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482584578011-eguiim0gac22r174pba8adlgk8hn5oqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YfBSAu34xBwLnsMf1nbt4lo-JiyykYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482584578011-eguiim0gac22r174pba8adlgk8hn5oqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
