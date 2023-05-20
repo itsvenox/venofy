@@ -6,10 +6,10 @@ Movie Streaming App with Firebase
 ## ToDos
 - [x] account detail
 - [x] favorite movies
-- [ ] customize stream 
 - [x] Authentication
 - [x] search 
 - [x] detail page 
+- [ ] customize stream 
 - [ ] share movie
 - [ ] rate movie
 
